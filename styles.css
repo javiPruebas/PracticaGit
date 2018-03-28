@@ -68,6 +68,8 @@ article{
 }
 article h1{
 	text-align: center;
+	text-transform: uppercase;
+	color: aqua
 }
 article p{
 	width: 95%;
