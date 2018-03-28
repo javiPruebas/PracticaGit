@@ -36,7 +36,13 @@ nav li{
 	float: right;
 	margin-right: 20px;
 	margin-top: 10px;
+	transition: 0.3s;
 }
+nav li:hover{
+	transform: scale(1.2);
+
+}
+
 section{
 	float: center;
 	background: rgb(138, 22, 206);
