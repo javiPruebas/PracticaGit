@@ -21,7 +21,7 @@ header h1, header img{
 nav{
 	width: 100%;
 	height: 40px;
-	background-color: rgb(20, 106, 139);
+	background-color: rgb(77, 235, 37);
 	margin-top: 5px;
 }
 nav a{
@@ -40,13 +40,13 @@ nav li{
 }
 nav li:hover{
 	transform: scale(1.2);
-	border: 2px solid rgba(192, 255, 76, 0.603)
+	border: 2px solid rgba(255, 76, 216, 0.603)
 
 }
 
 section{
 	float: center;
-	background: rgb(138, 22, 206);
+	background: rgb(22, 194, 206);
 	margin-top: 10px;
 	border-radius: 10px;
 	margin-left: 28%;
